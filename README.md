@@ -1,3 +1,2 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devnnys&theme=city_lights&show_icons=true&count_private=true" />
-</a>
+![Dennys' GitHub stats](https://github-readme-stats.vercel.app/api?username=dennys&count_private=true)
+
