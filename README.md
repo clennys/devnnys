@@ -1,3 +1,5 @@
 # Hello there, I'm Dennys.
-![Dennys' GitHub stats](https://github-readme-stats.vercel.app/api?username=devnnys&count_private=true)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ </div>
